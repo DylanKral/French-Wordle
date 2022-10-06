@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">French Wordle</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FourLettersButtonValue">4 letter word</string>
+    <string name="FiveLettersButtonValue">5 letter word</string>
+    <string name="SixLettersButtonValue">6 letter word</string>
+    <string name="statistics">Statistics</string>
+    <string name="help">Help</string>
+    <string name="your_email">Your email</string>
+    <string name="your_password">Your password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/drawable/custom_input.xml" value="0.216" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/drawable/green_box.xml" value="0.1935" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/drawable/ic_leaderboard.xml" value="0.2395" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/drawable/orange_box.xml" value="0.1935" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/abs_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/activity_game.xml" value="0.25" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/activity_help.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/activity_statistics.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/game_abs_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/help_abs_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/Dylank/Desktop/Android Studio Projects/finalproject-group4/app/src/main/res/layout/main_abs_layout.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.161" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/drawable/ic_help_green_icon.xml" value="0.161" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.161" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/drawable/ic_stats_green_full_icon.xml" value="0.161" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/drawable/ic_stats_green_icon.xml" value="0.161" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/layout/activity_help.xml" value="0.33" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/layout/activity_login.xml" value="0.67" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/layout/activity_register.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/layout/activity_statistics.xml" value="0.2" />
+        <entry key="..\:/Users/louis/Documents/Github/finalproject-group4/app/src/main/res/layout/fragment_login.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23810882568359382" />
+        <entry key="app/src/main/res/layout/activity_statistics.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
