@@ -1,5 +1,3 @@
 # French Wordle
-![AppExample](Home Screen.png)
-![AppExample](How to Play.png)
-![AppExample](Easy Game Mode.png)
-![AppExample](Completed Game Screen.png)
+This app mimics the already created app called wordle which was created by The New York Times.
+This version is of the app uses French instead of English to give it a bit of a twist.
